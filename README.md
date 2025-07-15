@@ -12,6 +12,20 @@ This project is a simple clone of the popular Flappy Bird game, developed using 
 - No external libraries
 
 ---
+## 📁 Project Structure
+
+FlappyBird/
+├── .git/ # Git metadata
+├── .idea/ # IntelliJ project settings
+├── .vscode/ # VSCode settings (optional)
+├── out/ # Compiled class files (auto-generated)
+├── src/
+│ └── FlappyBird.java # Main game file (all logic in one class)
+├── .gitignore # Git ignored files config
+├── FlappyBird.iml # IntelliJ module file
+└── README.md # Project documentation
+
+---
 
 ## 🎮 Features
 
