@@ -38,3 +38,26 @@ This project is a simple clone of the popular Flappy Bird game, developed using 
 cd src
 javac FlappyBird.java
 java FlappyBird
+
+🎯 Controls
+Spacebar → Makes the bird flap upward
+
+📄 Project Documentation
+Check the ProjectDocs/ folder for:
+
+📃 Reports or write-ups
+
+📷 Screenshots
+
+📝 Explanation documents
+
+📌 Future Improvements
+Add sound effects 🎵
+
+Implement high score saving 📊
+
+Add graphical enhancements 🌈
+
+Split logic into multiple classes for better structure
+
+
