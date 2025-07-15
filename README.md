@@ -13,7 +13,7 @@ This project is a simple clone of the popular Flappy Bird game, developed using 
 
 ---
 ## 📁 Project Structure
-FlappyBird/
+```FlappyBird/
 ├── .git/ # Git metadata
 ├── .idea/ # IntelliJ project settings
 ├── .vscode/ # VSCode settings (optional)
@@ -23,6 +23,7 @@ FlappyBird/
 ├── .gitignore # Git ignored files config
 ├── FlappyBird.iml # IntelliJ module file
 └── README.md # Project documentation
+```
 
 ---
 
