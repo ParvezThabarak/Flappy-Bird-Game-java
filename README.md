@@ -43,6 +43,8 @@ java FlappyBird
 ### 🎯 Controls
 Spacebar → Makes the bird flap upward
 
+---
+
 ### 📄 Project Documentation
 Check the ProjectDocs/ folder for:
 
@@ -51,6 +53,8 @@ Check the ProjectDocs/ folder for:
 📷 Screenshots
 
 📝 Explanation documents
+
+---
 
 ### 📌 Future Improvements
 Add sound effects 🎵
